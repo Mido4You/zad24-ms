@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+table {
+    font-size: 16px;
+}
+th {
+    background-color: green;
+    color: white;
+}
+td, tr, th {
+    border: 1px solid black;
+}
+span {
+    font-style: italic;
+}
+.zad1 {
+    border-collapse: collapse;
+}
+.zad3 {
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 1000px;
+}
+.zad3 th {
+    background-color: orange;
+    color: blue;
+}
